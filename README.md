@@ -494,4 +494,40 @@
 
         </tr>
         
+         <tr>
+            <th>1990</th>
+            <th>1 630 553</th>
+            <th>2.2%</th>
+
+        </tr>
+
+        <tr>
+            <th>2000</th>
+            <th>1 953 631</th>
+            <th>19.8%</th>
+
+        </tr>
+
+        <tr>
+            <th>2010</th>
+            <th>2 100 263</th>
+            <th>7.5%</th>
+
+        </tr>
+
+        <tr>
+            <th>Текущий 2017</th>
+            <th>2 304 580</th>
+            <th>9.7%</th>
+
+        </tr>
+
+    </table>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Race_and_ethnicity_2010-_Houston.png/220px-Race_and_ethnicity_2010-_Houston.png" width="300" 
+        >
+        <p>Этническая карта Хьюстона</p>
+
+ </body>
+
         
