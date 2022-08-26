@@ -264,4 +264,44 @@
             <th>Targa Resources[en]</th>
             <th>322</th>
         </tr>
+       <tr>
+            <th>34</th>
+            <th>Kinder Morgan</th>
+            <th>50</th>
+        </tr>
+        <tr>
+            <th>35</th>
+            <th>Cheniere Energy</th>
+            <th>352</th>
+        </tr>
+
+        <tr>
+            <th>38</th>
+            <th>Halliburton</th>
+            <th>363</th>
+        </tr>
+
+        <tr>
+            <th>39</th>
+            <th>Group 1 Automotive[en]</th>
+            <th>30</th>
+        </tr>
+
+        <tr>
+            <th>40</th>
+            <th>Quanta Services[en]</th>
+            <th>387</th>
+        </tr>
+
+        <tr>
+            <th>41</th>
+            <th>Westlake Chemical[en]</th>
+            <th>388</th>
+        </tr>
+
+        <tr>
+            <th>42</th>
+            <th>CenterPoint Energy[en]</th>
+            <th>402</th>
+        </tr>
         
