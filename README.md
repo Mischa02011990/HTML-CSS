@@ -206,3 +206,62 @@
             <th>Sysco[en]</th>
             <th>104</th>
         </tr>
+ <tr>
+            <th>8</th>
+            <th>ConocoPhillips</th>
+            <th>117</th>
+        </tr>
+
+        <tr>
+            <th>10</th>
+            <th>Plains All American Pipeline</th>
+            <th>121</th>
+        </tr>
+
+        <tr>
+            <th>12</th>
+            <th>Enterprise Products Partners</th>
+            <th>178</th>
+        </tr>
+
+        <tr>
+            <th>13</th>
+            <th>Enterprise Products Partners</th>
+            <th>192</th>
+        </tr>
+
+        <tr>
+            <th>18</th>
+            <th>NRG Energy[en]</th>
+            <th>198</th>
+        </tr>
+
+        <tr>
+            <th>20</th>
+            <th>Occidental Petroleum</th>
+            <th>221</th>
+        </tr>
+
+        <tr>
+            <th>21</th>
+            <th>Baker Hughes</th>
+            <th>225</th>
+        </tr>
+
+        <tr>
+            <th>24</th>
+            <th>EOG Resources</th>
+            <th>267</th>
+        </tr>
+
+        <tr>
+            <th>25</th>
+            <th>Waste Management[en]</th>
+            <th>319</th>
+        </tr>
+        <tr>
+            <th>29</th>
+            <th>Targa Resources[en]</th>
+            <th>322</th>
+        </tr>
+        
